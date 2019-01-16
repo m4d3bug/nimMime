@@ -1,5 +1,6 @@
 1. Please note that this is a work in process.
 2. Please give feedback how you would like to use a "mime.nim"
+3. Already update util the nim's 0.19.2
 
 mime.nim is MIME related code mostly copy pasted from
 - httpcore.nim
